@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ar3PVq2Df4w=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/Bitasmbl_worried-about-these-condoms_b3f_438/Bitasmbl_worried-about-these-condoms_b3f_438/frontend/frontend.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.9/microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
